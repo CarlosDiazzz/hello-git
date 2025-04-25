@@ -1,1 +1,1 @@
-print("JAJAJAJAJ");
+print("version con stassh");
